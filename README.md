@@ -12,4 +12,5 @@ HTML5, CSS3, JavaScript y Git & GitHub
 Proyectos en HTML y JavaScript.
 
 # Contacto:
-**Mi correo:** wilber.bernabe@clases.edu.sv y **Telefono:** 7827-0302
+**Mi correo:** wilber.bernabe@clases.edu.sv 
+**Telefono:** 7827-0302
