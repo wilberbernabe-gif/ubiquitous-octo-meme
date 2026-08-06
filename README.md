@@ -13,4 +13,4 @@ Proyectos en HTML y JavaScript.
 
 # Contacto:
 **Mi correo:** wilber.bernabe@clases.edu.sv 
-**Telefono:** 7827-0302
+##**Telefono:** 7827-0302
