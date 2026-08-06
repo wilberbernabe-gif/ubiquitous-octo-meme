@@ -8,7 +8,7 @@
 # Tecnologías que estoy aprendiendo son:
 HTML5, CSS3, JavaScript y Git & GitHub
 
-**Proyectos:** Proyectos en HTML y JavaScript.
+# Proyectos: Proyectos en HTML y JavaScript.
 
 # Contacto:
 **Mi correo:** wilber.bernabe@clases.edu.sv y **Telefono:** 7827-0302
